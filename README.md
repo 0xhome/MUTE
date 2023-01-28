@@ -1,2 +1,2 @@
 # MUTE
-Script for automatically mute or unmute keywords on Twitter
+Script for mute or unmute keywords on Twitter
