@@ -20,42 +20,9 @@ function delay(f = 1) {
   return new Promise((res) => setTimeout(res, f * 1000)); 	// Increase this if it goes async.
 }
 
-`erkek
-kadin
-nasip
-saka
-halis
-alfa
-beta
-aldat
-yorumladim
-libido
-iliski
-evli
-koca
-manita
-kismet
-777
-ruyalar
-burc
-magara
-ozgurlukcu
-ahlakima
-ters
-buyum
-ortam
-kanka
-secim
-kilicdaroglu
-erdogan
-tayyip
-recep
-chp
-mhp
-akp
-hdp
-zam
-mujde
+`word1
+word2
+word3
 `
   .split(/\W+/)
   .reduce(async function go(prev, keyword) {
